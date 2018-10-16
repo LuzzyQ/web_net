@@ -3,3 +3,5 @@
 	-test merge operation
 
 	-fix-b branch added
+	
+	-fix-C added
